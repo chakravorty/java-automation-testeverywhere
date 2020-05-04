@@ -27,3 +27,4 @@ git clone https://github.com/email2vimalraj/appium-stf-example.git
 
 # Demo
 [![Demo](http://i.imgur.com/T70WZ7Z.png)](https://www.youtube.com/watch?v=ZM1FZxokbZ4)
+=======
