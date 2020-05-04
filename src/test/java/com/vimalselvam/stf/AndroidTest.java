@@ -29,8 +29,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AndroidTest{
-    private static final String STF_SERVICE_URL = "http://203.122.22.228";  // Change this URL
-    private static final String ACCESS_TOKEN = "4ac3ce4ba69441e1aa4de58318b906558a62388c8b3e4cc1a04b91f372013dab";  // Change this access token
+    private static final String STF_SERVICE_URL = "your server url";  // Change this URL
+    private static final String ACCESS_TOKEN = "your access token";  // Change this access token
 
     private AndroidDriver androidDriver;
     private String deviceSerial;
